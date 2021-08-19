@@ -11,8 +11,4 @@
 
 Finish Day 1 work and commit to GitHub
 
-
-
-
-
 """
