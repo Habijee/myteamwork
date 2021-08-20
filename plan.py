@@ -6,10 +6,5 @@
 5. Chengjun 2021-08-20 Finish Day 1 work and commit to GitHub
 6.
 7.
-8.
-9.
-
-
-Finish Day 1 work and commit to GitHub
 
 """
