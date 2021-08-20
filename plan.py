@@ -8,6 +8,7 @@
 7. Kevin 2021-08-20 Finish Day 1 work and commit to GitHub
 8. All members 2021-08-20 Day 1 work completed
 9. Kevin 2021-08-20 Finish Day 2 work and commit to GitHub
-10.
+10. Chengjun 2021-08-20 Finish Day 2 work and commit to GitHub
+11. Steven 2021-08-20 Finish Day 2 work and commit to GitHub
 
 """
